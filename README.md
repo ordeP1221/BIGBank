@@ -2,7 +2,7 @@
 
 Um aplicativo mobile de gestão financeira pessoal, desenvolvido como projeto acadêmico. O objetivo do app é ajudar os usuários a administrarem seu dinheiro de forma simples, intuitiva e visual.
 
-## 📱 Sobre o Projeto
+## Sobre o Projeto
 
 O **BIGBank** permite que o usuário tenha o controle total da sua vida financeira em um só lugar. Através de uma interface amigável, é possível registrar entradas e saídas, categorizar despesas e acompanhar a evolução do seu saldo.
 
