@@ -1,4 +1,4 @@
-# 💰 BIGBank
+# BIGBank
 
 Um aplicativo mobile de gestão financeira pessoal, desenvolvido como projeto acadêmico. O objetivo do app é ajudar os usuários a administrarem seu dinheiro de forma simples, intuitiva e visual.
 
@@ -6,7 +6,7 @@ Um aplicativo mobile de gestão financeira pessoal, desenvolvido como projeto ac
 
 O **BIGBank** permite que o usuário tenha o controle total da sua vida financeira em um só lugar. Através de uma interface amigável, é possível registrar entradas e saídas, categorizar despesas e acompanhar a evolução do seu saldo.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Carteira:** Visão geral do saldo atual disponível.
 - **Gestão de Despesas:**
@@ -16,7 +16,7 @@ O **BIGBank** permite que o usuário tenha o controle total da sua vida financei
 - **Gráficos Dinâmicos:** Visualização gráfica que compara tudo o que foi gasto versus tudo o que foi ganho, facilitando a análise do fluxo de caixa.
 - **Contexto Global:** Uso de Context API (`ContextoFinanceiro`) para manter os dados do usuário sincronizados em todas as telas.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto foi construído utilizando as seguintes ferramentas:
 
@@ -25,7 +25,7 @@ Este projeto foi construído utilizando as seguintes ferramentas:
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Native Safe Area Context](https://docs.expo.dev/versions/latest/sdk/safe-area-context/)
 
-## 🛠️ Como executar o projeto
+## Como executar o projeto
 
 Para rodar este projeto na sua máquina ou celular, você precisará ter o [Node.js](https://nodejs.org/) instalado e o aplicativo **Expo Go** no seu celular (disponível para Android e iOS).
 
